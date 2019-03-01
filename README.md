@@ -7,4 +7,10 @@ Stuff from the [GitHub Craftwork Workshop
 - Probot, a great tool for getting started building GitHub Apps
 - Hosting code with Glitch
 
+---
+> **Caution**: here is where @Casey's and @jigyasa-grover's  **BorgQueen** was born !!
+
+![](http://www.ex-astris-scientia.org/gallery/stmagazine/borgqueen3.jpg)
+
+---
 Exhaustive resource - [GitHub Craftwork Cheat Sheet](https://github.github.com/Craftwork/) 🤖
